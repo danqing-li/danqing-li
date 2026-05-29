@@ -13,7 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 # [Danqing-Tequila](https://www.linkedin.com/in/danqing-li-i/)'s Product list!
+
+All things happening on Nvidia are supposed to happen, with library, nvlink, bandwidth, all those engineering tools. If it said theoratical it should meet that TFLOPs, then it should meet, just fix the bug, just like Engineering an app. Then the next question is, what we want to solve, to solve the question, what theory is alreay waiting for us. 
+
+We discover the world, find the world rules, we never invent, just collapse down the theory into Nvidia GPUs. 
+
+Find the theory that is already in Physical Life.
+
+# Some other toys
+
 I design, plan, implement and deploy webapps and Chrome extensions independently. Here are my products!
 
 
